@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ticTacToe/static/css/main.ebd3a209.css",
+    "main.js": "/ticTacToe/static/js/main.192e63cb.js",
+    "static/js/453.ed3810f9.chunk.js": "/ticTacToe/static/js/453.ed3810f9.chunk.js",
+    "static/media/game-logo.png": "/ticTacToe/static/media/game-logo.8e78fca90221d93a071c.png",
+    "static/media/bg-pattern-dark.png": "/ticTacToe/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/ticTacToe/index.html",
+    "main.ebd3a209.css.map": "/ticTacToe/static/css/main.ebd3a209.css.map",
+    "main.192e63cb.js.map": "/ticTacToe/static/js/main.192e63cb.js.map",
+    "453.ed3810f9.chunk.js.map": "/ticTacToe/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd3a209.css",
+    "static/js/main.192e63cb.js"
+  ]
+}
